@@ -11,6 +11,7 @@ web-build/
 web-report/
 *.lock
 *-lock.json
+yelp.js
 
 # macOS
 .DS_Store
